@@ -3,7 +3,7 @@
   "projects": [
     {
       "project_id": "P1",
-      "project_folder": "projects/01-ohms-law"
+      "project_folder": "01-ohms-law"
     }
   ]
 }
